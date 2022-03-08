@@ -1,5 +1,7 @@
 ## Running the example app
 
+**DEPRECATED, SEE:** [dream-social-login](https://github.com/camlworks/dream-social-login)
+
 Create a [new OAuth app][gh-oauth-app] and initialize the following environment
 variables:
 
